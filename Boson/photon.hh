@@ -32,6 +32,7 @@ public:
                   << "Frequency: " << getFrequency() << " Hz\n"
                   << "Wavelength: " << getWavelength() << " m\n";
     }
+    
 
 private:
     // Calculate frequency and wavelength based on energy
